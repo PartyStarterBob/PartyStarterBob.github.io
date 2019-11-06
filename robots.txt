@@ -1,4 +1,4 @@
 User-agent: *
-Sitemap: http://192.168.128.5:2368/sitemap.xml
+Sitemap: /sitemap.xml
 Disallow: /ghost/
 Disallow: /p/
